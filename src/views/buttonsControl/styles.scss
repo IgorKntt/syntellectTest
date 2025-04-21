@@ -1,0 +1,18 @@
+.textControl {
+  display: flex;
+  margin: 0 0 64px;
+  justify-content: center;
+
+  input {
+    font-size: 24px;
+    margin: 10px;
+    padding: 12px;
+  }
+
+  button {
+    color: red;
+    font-size: 24px;
+    margin: 10px;
+    padding: 12px;
+  }
+}
